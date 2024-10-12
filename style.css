@@ -1,0 +1,25 @@
+.para1 p{
+    text-align: justify;
+    margin: 40px 80px;
+    padding: 20px 20px;
+    background-color: rgb(240, 240, 184);
+    border: 2px dotted rgb(143, 143, 76);
+}
+
+.para2 p{
+    text-align: justify;
+    margin: 40px 80px;
+    padding: 20px 20px;
+    background-color: rgb(141, 233, 245);
+    border-top: 9px double rgb(61, 152, 105);
+    border-bottom: 9px double rgb(61, 152, 105);
+}
+
+.para3 p{
+    text-align: justify;
+    margin: 40px 80px;
+    padding: 20px 20px;
+    background-color: rgb(250, 189, 172);
+    border: 5px solid rgb(240, 122, 122);
+    outline: 5px solid rgb(162, 72, 72);
+}
